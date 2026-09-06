@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+.DS_Store
+/build
+xcuserdata/
+*.xcuserstate
+*.app
+preview*.png
